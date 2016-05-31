@@ -1,5 +1,5 @@
 
-# Spell Check Service
+# Spell:heavy_check_mark: Service
 
 Simple HTTP server to check word spelling.
 
