@@ -5,9 +5,9 @@ Simple HTTP server to check word spelling.
 
 # Requirements
 
-Python
-Flask
-Requests
+* Python
+* Flask
+* Requests
 
 ```sh
 pip install flask
